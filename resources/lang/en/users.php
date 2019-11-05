@@ -1,0 +1,40 @@
+<?php
+
+return [
+  'users' => 'Users',
+  'adduser' => 'Create New User',
+  'create' => 'Create',
+  'userdata' => 'Input User Data',
+  'list' => 'List',
+  'role' => [
+      'admin' => 'Admin',
+      'partner' => 'Partner',
+      'customer' => 'Customer',
+  ],
+  'table' => [
+      'id' => 'ID',
+      'name' => 'Name',
+      'username' => 'Username',
+      'email' => 'Email',
+      'phone' => 'Phone',
+      'address' => 'Address',
+      'notes' => 'Notes',
+      'wallet' => 'Wallet',
+      'createdate' => 'Create Date',
+      'rownumber' => 'Rows Number',
+  ],
+  'createnew' => [
+      'name' => 'Full Name',
+      'username' => 'Username',
+      'password' => 'Password',
+      'phone' => 'Phone Number',
+      'email' => 'Email Address',
+      'address' => 'Street Address',
+      'notes' => 'Notes',
+      'profileimage' => 'Profile Image',
+      'cancel' => 'Cancel',
+      'save' => 'Save',
+      'confirmpassword' => 'Confirm Password',
+      'noimage' => 'No Picture',
+  ],
+];
